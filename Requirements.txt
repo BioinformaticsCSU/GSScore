@@ -1,0 +1,8 @@
+torch=1.12
+h5py=3.6.0
+matplotlib=3.5.1
+openbabel=3.1.1
+rdkit=2019.09.3
+scipy=1.7.3
+numpy=1.21.6
+fairseq=0.10.2
