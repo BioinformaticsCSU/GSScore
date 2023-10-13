@@ -1,0 +1,30 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM      1  C11 LIG d   1      14.696  56.315  37.683  0.00  0.00      Lig_ C  
+ATOM      2  C12 LIG d   1      14.683  55.761  36.407  0.00  0.00      Lig_ C  
+ATOM      3  C13 LIG d   1      15.421  54.609  36.145  0.00  0.00      Lig_ C  
+ATOM      4  C14 LIG d   1      15.462  55.728  38.682  0.00  0.00      Lig_ C  
+ATOM      5  C15 LIG d   1      16.198  54.576  38.420  0.00  0.00      Lig_ C  
+ATOM      6  C16 LIG d   1      16.173  54.012  37.149  0.00  0.00      Lig_ C  
+ATOM      7  C17 LIG d   1      16.939  52.718  36.853  0.00  0.00      Lig_ C  
+ATOM      8  C18 LIG d   1      17.440  52.057  38.138  0.00  0.00      Lig_ C  
+ATOM      9  C19 LIG d   1      18.959  52.191  38.270  0.00  0.00      Lig_ C  
+ATOM     10  C20 LIG d   1      19.641  52.569  36.955  0.00  0.00      Lig_ C  
+ATOM     11  P1  LIG d   1      20.520  51.121  36.240  0.00  0.00      Lig_ P  
+ATOM     12  O1  LIG d   1      21.452  51.664  35.044  0.00  0.00      Lig_ O  
+ATOM     13  O2  LIG d   1      21.506  50.585  37.393  0.00  0.00      Lig_ O  
+ATOM     14  O3  LIG d   1      19.570  50.089  35.766  0.00  0.00      Lig_ O  
+ATOM     15  S1  LIG d   1      20.823  53.931  37.268  0.00  0.00      Lig_ S  
+ATOM     16  O4  LIG d   1      20.865  54.788  36.124  0.00  0.00      Lig_ O  
+ATOM     17  O5  LIG d   1      22.185  53.358  37.521  0.00  0.00      Lig_ O  
+ATOM     18  O6  LIG d   1      20.375  54.705  38.474  0.00  0.00      Lig_ O  
+ATOM     19  C10 LIG d   1      13.854  57.380  37.985  0.00  0.00      Lig_ C  
+ATOM     20  C7  LIG d   1      13.566  57.724  39.302  0.00  0.00      Lig_ C  
+ATOM     21  C6  LIG d   1      12.654  58.737  39.574  0.00  0.00      Lig_ C  
+ATOM     22  C5  LIG d   1      12.032  59.424  38.535  0.00  0.00      Lig_ C  
+ATOM     23  C8  LIG d   1      12.309  59.070  37.221  0.00  0.00      Lig_ C  
+ATOM     24  C9  LIG d   1      13.220  58.055  36.948  0.00  0.00      Lig_ C  
+ATOM     25  C4  LIG d   1      11.274  60.725  38.813  0.00  0.00      Lig_ C  
+ATOM     26  C3  LIG d   1      11.977  61.731  39.726  0.00  0.00      Lig_ C  
+ATOM     27  C2  LIG d   1      13.168  62.314  38.958  0.00  0.00      Lig_ C  
+ATOM     28  C1  LIG d   1      14.480  61.619  39.323  0.00  0.00      Lig_ C  
+TER      29      LIG d   1 
