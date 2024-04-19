@@ -1,2 +1,2 @@
 Model download link:
-https://drive.usercontent.google.com/download?id=1kKmo4CYkAox6HwtYeMZKbK4FaDA2l5uo&export=download&authuser=0&confirm=t&uuid=2cdcdedc-45a9-41aa-879c-1524aae28b49&at=APZUnTUhxZPPY19aCRjAHNgGprUq:1713516365932
+https://drive.google.com/file/d/1kKmo4CYkAox6HwtYeMZKbK4FaDA2l5uo/view?usp=drive_link
